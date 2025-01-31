@@ -10,3 +10,4 @@ let person = {
         return `my first name is ${person.firstName}`
     })
 }
+console.log(person.getName);
